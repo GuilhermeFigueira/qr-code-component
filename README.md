@@ -28,8 +28,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://qr-code-component-guilhermefigueira.vercel)
-- Live Site URL: <https://qr-code-component-guilhermefigueira.vercel.app>
+- Solution URL: [FrontEndMentor Solution URL](https://www.frontendmentor.io/solutions/tailwindcss-and-react-qr-code-component-_3XhaNB8Xp)
+- Live Site URL: [Vercel Live Solution Website](https://qr-code-component-guilhermefigueira.vercel.app)
 
 ## My process
 
