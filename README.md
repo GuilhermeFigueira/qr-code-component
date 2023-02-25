@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="#-português">Português</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="#-english">English</a>
+  <a href="#english">English</a>
 </p>
 
 ## English
