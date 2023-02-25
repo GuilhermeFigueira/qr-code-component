@@ -3,7 +3,7 @@ function App() {
 		<div className="flex h-full">
 			<main className="bg-white w-80 rounded-2xl p-4 items-center m-auto  h-fit shadow-lg ">
 				<img
-					src="./src/assets/image-qr-code.png"
+					src="./assets/image-qr-code.png"
 					alt="QR Code"
 					className="rounded-2xl "
 				/>
